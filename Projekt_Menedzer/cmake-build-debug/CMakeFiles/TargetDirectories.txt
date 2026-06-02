@@ -1,0 +1,3 @@
+C:/Users/gabry/Desktop/Projekt_Menedzer/cmake-build-debug/CMakeFiles/AplikacjaMenedzer.dir
+C:/Users/gabry/Desktop/Projekt_Menedzer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gabry/Desktop/Projekt_Menedzer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
